@@ -14,6 +14,7 @@
 ### week2：
 1.[词向量的相关操作](https://github.com/luyaowang96/cousera_neural_network_by_Andrew-NG/tree/master/neural%20network%20by%20NG/5.sequence%20model/week2/%20Operations%20on%20word%20vectors)  
 学习如何加载训练好了的词向量；使用余弦相似性计算相似度；使用词嵌入来解决“男人与女人相比就像国王与____ 相比”之类的词语类比问题；修改词嵌入以减少性别偏见  
+
 2.[训练表情]()
 
 
